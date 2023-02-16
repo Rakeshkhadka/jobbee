@@ -1,0 +1,1 @@
+{"c":["pages/login","webpack"],"r":["pages/job/[id]"],"m":["./components/job/JobDetails.jsx","./components/layout/NotFound.jsx","./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?absolutePagePath=%2Fhome%2Frakesh%2FDesktop%2FFullStack%2Fjobee%2Ffrontend%2Fpages%2Fjob%2F%5Bid%5D.jsx&page=%2Fjob%2F%5Bid%5D!","./pages/job/[id].jsx"]}
